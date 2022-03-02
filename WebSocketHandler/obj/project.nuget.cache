@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pLNJIIti1FCmQvhnz02U7glObArUr+2eYcfqV9aW1w7qWbvPqKL4qcWUrYw3OUoMA2zZ1K+XJuMg9u96jAA6oQ==",
+  "success": true,
+  "projectFilePath": "/Users/ooz/Projects/MessageServices/WebSocketHandler/WebSocketHandler.csproj",
+  "expectedPackageFiles": [
+    "/Users/ooz/.nuget/packages/microsoft.aspnet.signalr/2.4.3/microsoft.aspnet.signalr.2.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

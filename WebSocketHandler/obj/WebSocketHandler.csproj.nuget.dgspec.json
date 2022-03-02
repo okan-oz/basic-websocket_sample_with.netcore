@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ooz/Projects/MessageServices/WebSocketHandler/WebSocketHandler.csproj": {}
+  },
+  "projects": {
+    "/Users/ooz/Projects/MessageServices/WebSocketHandler/WebSocketHandler.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ooz/Projects/MessageServices/WebSocketHandler/WebSocketHandler.csproj",
+        "projectName": "WebSocketHandler",
+        "projectPath": "/Users/ooz/Projects/MessageServices/WebSocketHandler/WebSocketHandler.csproj",
+        "packagesPath": "/Users/ooz/.nuget/packages/",
+        "outputPath": "/Users/ooz/Projects/MessageServices/WebSocketHandler/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ooz/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNet.SignalR": {
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
